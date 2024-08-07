@@ -1,4 +1,4 @@
-# E Commarce App
+# Udemig E-Commarce App
 
 Get ready to step into the future of shopping! We are here to offer you the latest trends, quality products and unique opportunities. It is a user-friendly and secure shopping platform where you can find everything you need in one place.
 
